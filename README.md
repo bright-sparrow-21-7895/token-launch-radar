@@ -1,5 +1,9 @@
 # Token Launch Radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/bright-sparrow-21-7895/token-launch-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/bright-sparrow-21-7895/token-launch-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A token launch radar for the make.fun `token-radar-01` bounty: it reads a sealed DefiLlama
 snapshot of 758 protocols, finds the ones that record no token yet, ranks them by the market
 value a launch would carry if priced like the snapshot's own token-bearing protocols, and
